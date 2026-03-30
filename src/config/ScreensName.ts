@@ -1,4 +1,5 @@
 enum ScreensName {
-  FirstChallenge = 'FirstChallenge',
+  Home = 'Home',
+  Challenge1 = 'Challenge1',
 }
 export default ScreensName;

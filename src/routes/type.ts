@@ -1,3 +1,4 @@
 export type RootStackParamList = {
-  FirstChallenge : undefined;
+  Home: undefined;
+  Challenge1 : undefined;
 };
